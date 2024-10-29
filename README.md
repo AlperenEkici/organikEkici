@@ -7,6 +7,12 @@
 * Kimlik Doğrulama: Auth0
 * API Test: SWAGGER UI
 
+![Uploading Ekran görüntüsü 2024-10-29 233405.png…]()
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
