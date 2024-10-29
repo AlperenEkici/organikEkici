@@ -7,7 +7,8 @@
 * Kimlik Doğrulama: Auth0
 * API Test: SWAGGER UI
 
-![Uploading Ekran görüntüsü 2024-10-29 233405.png…]()
+![image](https://github.com/user-attachments/assets/7269d342-e199-4f95-9d83-b0c7b3974954)
+
 
 
 
